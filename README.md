@@ -30,4 +30,4 @@ CRC...(L) - left apple moves to center, then to right, then to center, eventuall
 CRC...(R) - left apple moves to center, then to right, then to center, eventually lands at right
 
 
-Per the original guide, you only need to take note of the left apple's position after its first 2 movements; however, if its first 2 movements land it in the center position and then the right position, you must follow it to the end and take note of its final position. I have created the keys with this strategy in mind, but I have also noted early exit conditions for applicable sequences for the convenience of users who feel comfortable memorizing them.
+Per the original guide, you only need to take note of the left apple's position after its first 2 movements; however, if its first 2 movements land it in the center position and then the right position, you must follow it to the end and take note of its final position. I have created the keys with this strategy in mind, but I have also noted early exit conditions for applicable sequences for the convenience of users who feel comfortable incorporating them into their strategy.
