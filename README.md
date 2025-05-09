@@ -23,7 +23,7 @@ RL - left apple moves to right, then to left
 
 CRL-(C) - left apple moves to center, then to right, then to left, then stays still, eventually lands at center
 
-CRC-(L) - left apple moves to center, then right, then to center, then stays still, eventually lands at left
+CRC-(L) - left apple moves to center, then to right, then to center, then stays still, eventually lands at left
 
 CRC...(L) - left apple moves to center, then to right, then to center, eventually lands at left
 
